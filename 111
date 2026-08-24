@@ -81,6 +81,20 @@
               transition: all 0.3s;
             }
 
+        .a-container {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        .b-container {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        .c-container {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+
+
     </style>
 </head>
 <body>
@@ -102,20 +116,25 @@
             <a href="https://columbia.jp/tokunagahideaki/prof.html"　target="_blank" class="btn" style="border-radius: 50px;">公式ホームページ</a>
             
             <a href="https://www.instagram.com/hideaki_tokunaga_official/?hl=ja" target="_blank" class="btn" style="border-radius: 50px;">いんすたぐらむ</a>
-
+         </div>
+<div class="a-container">
 <h2>スキル</h2>
 <ul>
   <li>歌がうまい</li>
   <li>声がいい</li>
   <li>若々しい</li>
 </ul>
-<h2>自己紹介表</h2>
-<table border="1">
-  <tr><th>項目</th><th>内容</th></tr>
-  <tr><td>名前</td><td>德永　英明</td></tr>
-  <tr><td>出身</td><td>福岡県　柳川市</td></tr>
-  <tr><td>趣味</td><td>旅</td></tr>
-</table>
+ </div>
+
+<div class="a-container">
+    <h2>自己紹介表</h2>
+        <table border="1">
+          <tr><th>項目</th><th>内容</th></tr>
+          <tr><td>名前</td><td>德永　英明</td></tr>
+          <tr><td>出身</td><td>福岡県　柳川市</td></tr>
+          <tr><td>趣味</td><td>旅</td></tr>
+        </table>
+</div>
 
             </div>
     </div>
