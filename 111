@@ -84,15 +84,17 @@
         .a-container {
             display: flex;
             flex-direction: column;
-            gap: 12px;
+            gap: 12px;}
+
         .b-container {
             display: flex;
             flex-direction: column;
-            gap: 12px;
+            gap: 12px;}
+
         .c-container {
             display: flex;
             flex-direction: column;
-            gap: 12px;
+            gap: 12px;}
 
 
     </style>
