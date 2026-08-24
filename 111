@@ -10,7 +10,7 @@
            ======================================================== */
         body {
             /* 【ワーク】背景の色を変えてみよう（例：#ffffff、#ffe4e1、#e0ffff など） */
-            background-color: #f4f7f6; 
+            background-color: #3232a8; 
             font-family: 'Helvetica Neue', Arial, sans-serif;
             color: #333333;
             margin: 0;
