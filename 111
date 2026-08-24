@@ -93,9 +93,9 @@
         </p>
 
         <div class="links-container">
-            <a href="https://columbia.jp/tokunagahideaki/prof.html"　target="_blank" class="btn">公式ホームページ</a>
+            <a href="https://columbia.jp/tokunagahideaki/prof.html"　target="_blank" class="btn" style="border-radius: 50px;">公式ホームページ</a>
             
-            <a href="https://www.instagram.com/hideaki_tokunaga_official/?hl=ja" target="_blank" class="btn">いんすたぐらむ</a>
+            <a href="https://www.instagram.com/hideaki_tokunaga_official/?hl=ja" target="_blank" class="btn" style="border-radius: 50px;">いんすたぐらむ</a>
             
             </div>
     </div>
