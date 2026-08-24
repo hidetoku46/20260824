@@ -119,25 +119,25 @@
             
             <a href="https://www.instagram.com/hideaki_tokunaga_official/?hl=ja" target="_blank" class="btn" style="border-radius: 50px;">いんすたぐらむ</a>
          </div>
-<div class="a-container">
-<div class="b-container">
-<h2>スキル</h2>
-<ul>
-  <li>歌がうまい</li>
-  <li>ハスキーで繊細な高音ボイス</li>
-  <li>若々しい</li>
-</ul>
- </div>
+    <div class="a-container">
+    <div class="b-container">
+    <h2>スキル</h2>
+    <ul>
+      <li>歌がうまい</li>
+      <li>ハスキーで繊細な高音ボイス</li>
+      <li>若々しい</li>
+    </ul>
+     </div>
 
-    <div class="c-container">
-    <h2>自己紹介表</h2>
-        <table border="1">
-          <tr><th>項目</th><th>内容</th></tr>
-          <tr><td>名前</td><td>德永　英明</td></tr>
-          <tr><td>出身</td><td>福岡県　柳川市</td></tr>
-          <tr><td>趣味</td><td>謎</td></tr>
-        </table>   
-        </div>
+        <div class="c-container">
+        <h2>自己紹介表</h2>
+            <table border="1">
+              <tr><th>項目</th><th>内容</th></tr>
+              <tr><td>名前</td><td>德永　英明</td></tr>
+              <tr><td>出身</td><td>福岡県　柳川市</td></tr>
+              <tr><td>趣味</td><td>謎</td></tr>
+            </table>   
+            </div>
     </div>
             </div>
     </div>
